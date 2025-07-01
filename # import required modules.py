@@ -1,4 +1,4 @@
-# import required modules
+
 import socket
 import threading
 import tkinter as tk
